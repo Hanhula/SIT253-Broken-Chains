@@ -1,0 +1,60 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 06.09.2018 22:24:34
+
+newmtl 03___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka E:\Documents\GitHub\SIT253\Broken Chains\3D Models\Equipment\Textures\staffbranch2_Dt.png
+	map_Kd E:\Documents\GitHub\SIT253\Broken Chains\3D Models\Equipment\Textures\staffbranch2_Dt.png
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka E:\Documents\GitHub\SIT253\Broken Chains\3D Models\Equipment\Textures\staffbranch2_D.png
+	map_Kd E:\Documents\GitHub\SIT253\Broken Chains\3D Models\Equipment\Textures\staffbranch2_D.png
+	map_bump E:\Documents\GitHub\SIT253\Broken Chains\3D Models\Equipment\Textures\staffbranch2_N.png
+	bump E:\Documents\GitHub\SIT253\Broken Chains\3D Models\Equipment\Textures\staffbranch2_N.png
+
+newmtl 08___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka E:\Documents\GitHub\SIT253\Broken Chains\3D Models\Equipment\Textures\staffgem_D.png
+	map_Kd E:\Documents\GitHub\SIT253\Broken Chains\3D Models\Equipment\Textures\staffgem_D.png
+
+newmtl 07___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka E:\Documents\GitHub\SIT253\Broken Chains\3D Models\Equipment\Textures\rope1_Dt.png
+	map_Kd E:\Documents\GitHub\SIT253\Broken Chains\3D Models\Equipment\Textures\rope1_Dt.png
